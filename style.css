@@ -61,16 +61,49 @@ body{
  .font{
 font-size: 46px;
  }
+ .width100{
+    width: 100%;
+ }
 
  .responsive{
-    max-width: 100%;
+  max-width: 100%;
+ }
+
+ .width-2{
+    width: 220px;
  }
  .width-1{
       width:360px;
  }
 
- .margin{
-    margin-left: 50px;
+ .logo{
+    width: 145px;
+ }
+
+ .foot-color{
+    color: #b6b6a0;
+ }
+
+
+ .background{
+    background-color: #ffffff;
+    width: 350px;
+    height: 250px;
+    
+ 
+  }
+
+
+  .fa-brands{
+    font-size: 25px;
+    margin: 5px;
+    background-color: var(--red);
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 40px;
+ }
+ .icons{
+    margin: 3px;
  }
 
 
@@ -104,6 +137,9 @@ font-size: 46px;
    .navbar-responsive{
     display: flex;
     
+   }
+   .head-responsive h2{
+    font-size: 35px;
    }
 
   
