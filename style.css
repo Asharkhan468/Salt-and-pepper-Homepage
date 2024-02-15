@@ -108,6 +108,9 @@ font-size: 46px;
  .margin-l{
     margin-left: 10px;
  }
+ .margin-r{
+    margin-right: 100px;
+ }
 
 
 
@@ -147,6 +150,9 @@ font-size: 46px;
 
    p .text-responsive{
     text-align: center;
+   }
+   .order-online{
+    display: none;
    }
 
   
