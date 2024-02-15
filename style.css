@@ -55,7 +55,7 @@ body{
  }
 
  .bg-color{
-    color:#0f0f0f;
+    background-color:#0f0f0f;
  }
 
  .font{
@@ -69,7 +69,9 @@ font-size: 46px;
       width:360px;
  }
 
- 
+ .margin{
+    margin-left: 50px;
+ }
 
 
 
