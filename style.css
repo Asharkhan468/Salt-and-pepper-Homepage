@@ -111,7 +111,7 @@ font-size: 46px;
  .margin-r{
     margin-right: 100px;
  }
-
+ 
 
 
 
@@ -155,6 +155,10 @@ font-size: 46px;
     display: none;
    }
 
+   .fa-bars{
+    display: none;
+   }
+
   
 
    
@@ -177,10 +181,7 @@ font-size: 46px;
   nav.logo{
     text-align: left;
    }
-   /* nav{
-    display: flex;
-    justify-content: space-around;
-    align-items: flex-start;
-   } */
 
+   
+  
 }
